@@ -5,4 +5,5 @@
 ---
 我下载的版本：[链接](https://www.usbdev.ru/?wpfb_dl=10197)
 ---
-使用方法:[链接](https://www.usbdev.ru/articles/a_smi/dyna-repair)
+使用方法：[链接](https://www.usbdev.ru/articles/a_smi/dyna-repair)
+---
