@@ -9,3 +9,5 @@
 ---
 打开软件击点击扫描，会有显示扫描到设备，然后点击设置，密码默认没有设置，留空即可，会提示选择配置文件，默认的就好，进入设置按照使用方法页面说的设置一下（我的U盘就用默认的设置就好了）
 ![扫描USB](https://github.com/ahhhhfs/-Samsung-Bar-plus-U-/blob/main/1.png)
+![配置文件](https://github.com/ahhhhfs/-Samsung-Bar-plus-U-/blob/main/2.png)
+![](https://github.com/ahhhhfs/-Samsung-Bar-plus-U-/blob/main/3.png)
