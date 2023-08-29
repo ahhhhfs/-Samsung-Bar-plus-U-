@@ -1,5 +1,6 @@
 # -Samsung-Bar-plus-U-无法写入修复（量产）
 三星u盘 BAR Gen1 （SM3281） 无法写入解决方法，以及量产工具和量产方法
+![](https://github.com/ahhhhfs/-Samsung-Bar-plus-U-/blob/main/0.png)
 ---
 工具这里下载： [链接](https://www.usbdev.ru/files/smi/dynamptool)
 ---
@@ -17,3 +18,7 @@
 ![](https://github.com/ahhhhfs/-Samsung-Bar-plus-U-/blob/main/4.png)
 完成后的样子
 ![](https://github.com/ahhhhfs/-Samsung-Bar-plus-U-/blob/main/5.png)
+---
+版权声明：本文为 neucrack 的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://neucrack.com/p/419
+---
